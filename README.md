@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Some information: \n
+Some information: </br>
 Discord: Mased#1854
