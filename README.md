@@ -1,4 +1,3 @@
 ### Hi there 👋
-
-Some information: </br>
-Discord: Mased#1854
+### Some information: </br>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) Discord: Mased#1854
