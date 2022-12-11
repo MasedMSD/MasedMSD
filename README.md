@@ -1,3 +1,2 @@
-### Hi there 👋
+# [Banner](https://github.com/MasedMSD/MasedMSD/blob/main/Banner.png)
 ### Some information: </br>
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) Discord: Mased#1854
